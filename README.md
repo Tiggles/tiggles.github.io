@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Familieweekend 2021
 
-You can use the [editor on GitHub](https://github.com/Tiggles/tiggles.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Muligheder:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Magrethe skål
 
-### Markdown
+Regler:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hver person skriver 3 navne navne ned på 3 forskellige stykker papir.
 
-```markdown
-Syntax highlighted code block
+- Personen må ikke være til stede.
+- Man skal forvente alle andre kender personen.
+- Personen kan være fiktiv eller ej.
 
-# Header 1
-## Header 2
-### Header 3
+Runde 1:
+Ingen begrænsninger på antal ord.
+Navnet må ikke indgå i hvad man siger.
 
-- Bulleted
-- List
+Runde 2:
+Kun et ord.
 
-1. Numbered
-2. List
+Runde 3:
+Kun håndfagter.
+Man må ikke pege.
 
-**Bold** and _Italic_ and `Code` text
+### Teamwork
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tiggles/tiggles.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Tegn et dyr
