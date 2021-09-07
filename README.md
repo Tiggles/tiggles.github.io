@@ -31,9 +31,9 @@ Man må ikke pege.
 
 ### 1-2 Switch
 
-En repræsentant fra et hold stiller op mod en repæsentant fra et andet hold.
-
 Et tilfældigt tal i [1,6] benyttes til at udvælge spillet der konkurreres i.
+
+En repræsentant fra et hold stiller op mod en repæsentant fra et andet hold.
 
 En sejr betyder 5 point til holdet der vinder.
 
