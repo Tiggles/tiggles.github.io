@@ -14,9 +14,9 @@ Hver person skriver 3 navne navne ned på 3 forskellige stykker papir.
 
 Der er 3 runder hvor man kan få point. Et korrekt svar er et point, hvor sedlen lægges over i holdets bunke.
 
-Når alle sedler er væk fra skålen er runden slut. Pointene tælles op og sedlerne lægges tilbage i skålen.
+Hvert hold får et minut ad gangen til at gætte så mange sedler som muligt.
 
-Et minut per hold per runde.
+Når alle sedler er væk fra skålen er runden slut. Pointene tælles op og sedlerne lægges tilbage i skålen.
 
 Runde 1:
 Ingen begrænsninger på antal ord.
