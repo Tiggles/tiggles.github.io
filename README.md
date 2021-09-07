@@ -27,7 +27,7 @@ Kun et ord.
 
 Runde 3:
 Kun håndfagter.
-Man må ikke pege.
+Man må ikke pege på en person.
 
 ### 1-2 Switch
 
