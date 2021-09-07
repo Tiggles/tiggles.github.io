@@ -2,7 +2,7 @@
 
 Muligheder:
 
-#### Magrethe skål
+### Magrethe skål
 
 Regler:
 
