@@ -33,3 +33,18 @@ Man må ikke pege.
 ### Teamwork
 
 - Tegn et dyr
+
+### 1-2 Switch
+
+En repræsentant fra et hold stiller op mod en repæsentant fra et andet hold.
+
+Et tilfældigt tal i [1,4] benyttes til at udvælge spillet der konkurreres i.
+
+En sejr betyder 5 point til holdet der vinder.
+
+- (1) Milk
+- (2) Zen
+- (3) Quick Draw
+- (4) Fake Draw
+- (5) Table Tennis
+- (6) Samurai Training
