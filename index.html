@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Fie.dog</title>
+    <style>
+        @media (prefers-color-scheme: light) {
+            header {
+                color: black;
+            }
+
+            :root {
+                --button-color: seagreen;
+                --main-bg-color: white;
+            }
+        }
+
+        @media (prefers-color-scheme: dark) {
+            header {
+                color: white;
+            }
+
+            :root {
+                --button-color: seagreen;
+                --main-bg-color: #333;
+            }
+        }
+
+        body {
+            background-color: var(--main-bg-color, white);
+        }
+
+
+        * {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .content {
+            display: flex;
+            width: 100%;
+            flex-grow: 1;
+            justify-items: center;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .content img,
+        video {
+            max-height: 80vh;
+            max-width: 80vw;
+        }
+
+        .media-btn {
+            padding: 16px;
+            width: 100%;
+            cursor: pointer;
+            border: 1px solid var(--button-color, seagreen);
+            display: flex;
+            justify-content: center;
+            color: var(--button-color, seagreen);
+            user-select: none;
+        }
+
+        .media-btn:hover {
+            transform: scale3d(1.01, 1.01, 1.01);
+        }
+
+        header {
+            margin-left: 15px;
+        }
+
+        .button-container {
+            margin-top: 20px;
+            display: flex;
+            justify-items: center;
+        }
+
+        .button-container div {
+            margin-left: 16px;
+        }
+
+        header {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+        }
+
+        header > a {
+            margin-left: 0.5em;
+            margin-right: 0.5em;
+        }
+
+        body {
+            display: flex;
+            height: calc(100vh - 30px);
+            flex-direction: column;
+        }
+
+        .fullscreen .media-btn, .fullscreen header {
+            display: none;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Fie.dog 🐶</h1>
+    </header>
+
+    <div class="content">
+    </div>
+
+    <div class="button-container">
+        <div id="slideshow-btn" class="media-btn">Slideshow 📽</div>
+    </div>
+
+    <div class="button-container">
+        <div id="next-btn" class="media-btn">Next ⏭️</div>
+        <div id="random-btn" class="media-btn">Random 🔀</div>
+    </div>
+    <script src="src/album.js"></script>
+</body>
+
+</html>
